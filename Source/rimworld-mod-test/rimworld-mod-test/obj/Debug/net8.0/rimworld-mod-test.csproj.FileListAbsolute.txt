@@ -1,0 +1,11 @@
+C:\dev\repos\rimworld_mod_test_2\Assemblies\Debug\net8.0\Wormax.deps.json
+C:\dev\repos\rimworld_mod_test_2\Assemblies\Debug\net8.0\Wormax.dll
+C:\dev\repos\rimworld_mod_test_2\Source\rimworld-mod-test\rimworld-mod-test\obj\Debug\net8.0\rimworld-mod-test.csproj.AssemblyReference.cache
+C:\dev\repos\rimworld_mod_test_2\Source\rimworld-mod-test\rimworld-mod-test\obj\Debug\net8.0\rimworld-mod-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\repos\rimworld_mod_test_2\Source\rimworld-mod-test\rimworld-mod-test\obj\Debug\net8.0\rimworld-mod-test.AssemblyInfoInputs.cache
+C:\dev\repos\rimworld_mod_test_2\Source\rimworld-mod-test\rimworld-mod-test\obj\Debug\net8.0\rimworld-mod-test.AssemblyInfo.cs
+C:\dev\repos\rimworld_mod_test_2\Source\rimworld-mod-test\rimworld-mod-test\obj\Debug\net8.0\rimworld-mod-test.csproj.CoreCompileInputs.cache
+C:\dev\repos\rimworld_mod_test_2\Source\rimworld-mod-test\rimworld-mod-test\obj\Debug\net8.0\rimworld.E25A2F41.Up2Date
+C:\dev\repos\rimworld_mod_test_2\Source\rimworld-mod-test\rimworld-mod-test\obj\Debug\net8.0\Wormax.dll
+C:\dev\repos\rimworld_mod_test_2\Source\rimworld-mod-test\rimworld-mod-test\obj\Debug\net8.0\refint\Wormax.dll
+C:\dev\repos\rimworld_mod_test_2\Source\rimworld-mod-test\rimworld-mod-test\obj\Debug\net8.0\ref\Wormax.dll
